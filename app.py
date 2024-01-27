@@ -160,4 +160,4 @@ def send_confirmation(email_index):
 
 if __name__ == '__main__':
     print("|----------Starting app script----------|")
-    app.run(debug=True)
+    app.run(debug=False)
